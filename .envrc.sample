@@ -1,0 +1,4 @@
+PATH_add ./node_modules/.bin
+
+export CHANNEL_SECRET='xxxxx'
+export CHANNEL_ACCESS_TOKEN='xxxxx'
